@@ -1,4 +1,2 @@
 <?php
-
-echo 'Ya remote id is: <br>';
-echo $_SERVER['REMOTE_ADDR'];
+echo 'PHP IS FORBIDDEN, THIS IS SO SAD.';
